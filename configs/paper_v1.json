@@ -1,0 +1,33 @@
+{
+  "protocol": "jevgnss-paper-v1",
+  "routes": [
+    "klt-20210610",
+    "whampoa-20210714",
+    "science-museum-wongkun-20260630",
+    "reclamation-street-20260630"
+  ],
+  "v008_seeds": [20261101, 20261102, 20261103],
+  "tdl_seeds": [20261029, 20261030, 20261031],
+  "variants": ["zero", "random", "hard", "soft"],
+  "candidate_epochs": 14523,
+  "observation_rows": 215421,
+  "risk_target_observations": 171960,
+  "coordinate_tolerance_m": 0.0001,
+  "metric_tolerance": 0.000001,
+  "gnc_sigma_by_route": {
+    "klt-20210610": 7.5,
+    "whampoa-20210714": 7.5,
+    "science-museum-wongkun-20260630": 3.0,
+    "reclamation-street-20260630": 5.0
+  },
+  "fde_threshold_by_route": {
+    "klt-20210610": 25,
+    "whampoa-20210714": 25,
+    "science-museum-wongkun-20260630": 5,
+    "reclamation-street-20260630": 25
+  },
+  "assets": {
+    "dataset_url": "https://www.dropbox.com/t/NgR7Z9O3UbMf2v2n"
+  }
+}
+
