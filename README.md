@@ -18,7 +18,7 @@ The project page replays four urban routes in Hong Kong and seven positioning me
 
 \* Equal contribution.
 
-**Contact:** [Yixin Gao](mailto:yixin.gao@connect.polyu.hk), [Ruijie Xu](mailto:ruijie.xu@connect.polyu.hk), [Yingying Wang](mailto:ying5wang@polyu.edu.hk), [Feng Huang](mailto:darren-f.huang@connect.polyu.hk), [Weisong Wen](mailto:welson.wen@polyu.edu.hk).
+**Contact:** [Yixin Gao](mailto:yixin.gao@connect.polyu.hk), [Ruijie Xu](mailto:ruijie.xu@connect.polyu.hk), [Yingying Wang](mailto:yingying225.wang@polyu.edu.hk), [Feng Huang](mailto:darren-f.huang@connect.polyu.hk), [Weisong Wen](mailto:welson.wen@polyu.edu.hk).
 
 ## System pipeline
 
